@@ -3,6 +3,8 @@
 테크 블로그 링크 : https://hwjoo.vercel.app
 
 2025.03.22 올리브영에 입사하려고
+2025.03.23 올리브영에 입사하려고(수정본 작성)
+
 
 This project is based on morethan-log by [morethanmin](https://github.com/morethanmin/morethan-log).
 
