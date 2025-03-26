@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "이벤트에 미친 사람",
     email: "jhw102258@gmail.com",
     linkedin: "morethanmin",
-    github: "https://github.com/WOULDU-pres",
+    github: "WOULDU-pres",
     instagram: "",
   },
   projects: [

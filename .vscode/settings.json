@@ -1,0 +1,7 @@
+{
+    "conventionalCommits.scopes": [
+        "Add Post",
+        "상세페이지",
+        "site.config"
+    ]
+}
