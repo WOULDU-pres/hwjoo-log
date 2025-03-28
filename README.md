@@ -6,6 +6,7 @@
 2025.03.23 올리브영에 입사하려고(수정본 작성)  
 2025.03.24 앞으로의 계획  
 2025.03.27 Vent 개발기  
+2025.03.28 Spring 동작 구조
 
 
 This project is based on morethan-log by [morethanmin](https://github.com/morethanmin/morethan-log).
