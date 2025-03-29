@@ -7,6 +7,7 @@
 2025.03.24 앞으로의 계획  
 2025.03.27 Vent 개발기  
 2025.03.28 Spring 동작 구조
+2025.03.29 PostgreSQL 선택한 이유
 
 
 This project is based on morethan-log by [morethanmin](https://github.com/morethanmin/morethan-log).
